@@ -12,11 +12,11 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucifer9707&label=Profile%20Views&color=00e5ff&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=&label=Profile%20Views&color=00e5ff&style=for-the-badge" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/followers/lucifer9707?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+<img src="https://img.shields.io/github/followers/itsaruncodes?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </p>
 
 
@@ -59,7 +59,7 @@ Constantly learning, building, breaking things, fixing things—**the cycle cont
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucifer9707&theme=onedark&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itsaruncodes&theme=onedark&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
@@ -67,15 +67,15 @@ Constantly learning, building, breaking things, fixing things—**the cycle cont
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=lucifer9707&show_icons=true&count_private=true&title_color=00eaff&text_color=ffffff&icon_color=00eaff&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=itsaruncodes&show_icons=true&count_private=true&title_color=00eaff&text_color=ffffff&icon_color=00eaff&bg_color=0d1117&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lucifer9707&theme=dark&hide_border=true&ring=00eaff&fire=00eaff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff" />
+  <img src="https://streak-stats.demolab.com/?user=itsaruncodes&theme=dark&hide_border=true&ring=00eaff&fire=00eaff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=lucifer9707&langs_count=10&layout=compact&title_color=00eaff&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=itsaruncodes&langs_count=10&layout=compact&title_color=00eaff&text_color=ffffff&bg_color=0d1117&hide_border=true" />
 </p>
 
 
